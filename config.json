@@ -41,8 +41,11 @@
   "V2EX": [],
   "YOUDAO": [],
   "skland": [
-    {
-      "enable": true
-    }
-  ]
+  {
+    "enable": true,
+    "cred": "O3j6/QdWQfMakgi5ADPvSMMK",
+    "token": "wwXrxQbp1zHruXGuNpnHBy3YkArMYkNO
+"
+  }
+]
 }
